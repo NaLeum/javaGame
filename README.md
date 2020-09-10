@@ -209,3 +209,6 @@
 
 1탄과 2탄 모두 체력이 0이 되면 입원을 하여 엔딩이 나옵니다. 
 
+# playvideo
+[1탄](https://www.youtube.com/watch?v=5bT7MsGHdyI)
+[2탄](https://www.youtube.com/watch?v=7y7roXhpK-8)
